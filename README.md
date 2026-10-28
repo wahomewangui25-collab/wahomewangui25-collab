@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Isabell
 
-<!--
-**wahomewangui25-collab/wahomewangui25-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 Learning Web Development
+- 💻 Building HTML, CSS & JavaScript projects
+- 🎯 Goal: Become a Full-Stack Developer
+- 📫 Reach me on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+
+## 🏆 Tech Stack & Badges
+
+https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+## 📊 GitHub Analytics
+
+https://github-readme-stats.vercel.app/api?username=wahomewangui25-collab&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=wahomewangui25-collab&layout=compact&theme=radical
+
+##Connect With Me
+[ GitHub](https://github.com/wahomewangui25-collab
